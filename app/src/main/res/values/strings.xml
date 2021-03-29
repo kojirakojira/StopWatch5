@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StopWatch5</string>
+    <string name="sec_disp">00:00:00.</string>
+    <string name="msec_disp">00</string>
+    <string name="start_button">START</string>
+    <string name="stop_button">STOP</string>
+    <string name="reset_button">RESET</string>
+</resources>
